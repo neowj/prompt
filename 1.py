@@ -9,3 +9,4 @@
 
 # this my first prompt
 print("hello")
+print("date")
